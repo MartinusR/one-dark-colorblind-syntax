@@ -1,4 +1,4 @@
-## One Dark Colorblind Syntax theme
+## One Dark Colorblind Syntax theme for Atom
 
 This theme is very similar to [One Dark](https://github.com/atom/atom/tree/master/packages/one-dark-syntax),
 modifying the color for **types** and **function calls** to be more colorblind-friendly, at least to my eyes.
