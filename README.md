@@ -1,9 +1,8 @@
 ## One Dark Colorblind Syntax theme
 
-![one-dark-colorblind-syntax](https://image.missing.png)
-
-This theme is very similar to One Dark [missing link], modifying the color for types and function calls to be more colorblind-friendly.
+This theme is very similar to [One Dark](https://github.com/atom/atom/tree/master/packages/one-dark-syntax),
+modifying the color for **types** and **function calls** to be more colorblind-friendly, at least to my eyes.
 
 ### Install
 
-TODO.
+This package can be installed in Atom under `Settings/Themes`.
